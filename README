@@ -1,0 +1,29 @@
+Nerdy Lines Gnome Icon Theme - 0.1.8
+==============================================
+
+About: 
+----------------------------------------------
+This theme is based on the Kreski Lines icon theme. The main problem was that
+the original theme was not scalable. And also incomplete. That gave my desktop
+an incomplete look. So I decided to fix that. The result is that they were
+redrawn from scratch in SVG-format.
+
+
+ChangeLog: 
+----------------------------------------------
+0.1.8    - For a few mimetypes more
+0.1.7    - Pimp my dialog and abiword
+0.1.6    - Getting my desktop icons done (part III)
+0.1.5    - Introducing the stock
+0.1.4    - The buero stuff is coming
+0.1.3    - Getting my desktop icons done (part II)
+0.1.2    - More from the deviantart
+0.1.1    - Getting my desktop icons done (part I)
+0.1.0    - Initial version as replacement for Kreski-Lines
+
+
+Installation: 
+----------------------------------------------
+Untar archive to ~/.icons
+-or-
+drag and drop to the gnome theme manager and it will automatically install
