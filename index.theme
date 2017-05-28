@@ -4,69 +4,69 @@
 Name=Nerdy Lines
 Comment=Nerdy Lines by Christoph Brill
 Inherits=gnome
+Example=x-directory-normal
 
-Directories=scalable/actions,scalable/apps,scalable/devices,scalable/emblems,scalable/filesystems,scalable/mimetypes,scalable/places,scalable/status
+Directories=scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/mimetypes,scalable/places,scalable/status
 
 [scalable/actions]
-MinSize=1
 Size=64
-MaxSize=256
 Context=Actions
-Type=scalable
+Type=Scalable
+MinSize=32
+MaxSize=256
 
 [scalable/apps]
-MinSize=1
 Size=64
-MaxSize=256
 Context=Applications
-Type=scalable
+Type=Scalable
+MinSize=32
+MaxSize=256
+
+[scalable/categories]
+Size=64
+Context=Categories
+Type=Scalable
+MinSize=32
+MaxSize=256
 
 [scalable/devices]
-MinSize=1
 Size=64
-MaxSize=256
 Context=Devices
-Type=scalable
+Type=Scalable
+MinSize=32
+MaxSize=256
 
 [scalable/emblems]
-MinSize=1
-Size=48
-MaxSize=256
-Context=Emblems
-Type=scalable
-
-[scalable/filesystems]
-MinSize=1
 Size=64
+Context=Emblems
+Type=Scalable
+MinSize=32
 MaxSize=256
-Context=FileSystems
-Type=scalable
+
+[scalable/emotes]
+Size=64
+Context=Emotes
+Type=Scalable
+Minsize=32
+MaxSize=256
 
 [scalable/mimetypes]
-MinSize=1
 Size=64
-MaxSize=256
 Context=MimeTypes
-Type=scalable
+Type=Scalable
+MinSize=32
+MaxSize=256
 
 [scalable/places]
-MinSize=1
 Size=64
-MaxSize=256
 Context=Places
-Type=scalable
+Type=Scalable
+MinSize=32
+MaxSize=256
 
 [scalable/status]
-MinSize=1
 Size=64
-MaxSize=256
 Context=Status
-Type=scalable
-
-[scalable/stock]
-MinSize=1
-Size=64
+Type=Scalable
+MinSize=32
 MaxSize=256
-Context=Stock
-Type=scalable
-

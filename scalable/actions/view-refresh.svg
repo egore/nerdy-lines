@@ -2,25 +2,33 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="64.000000px"
    height="64.000000px"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.42.2"
+   inkscape:version="0.46"
    sodipodi:docbase="/home/egore/Desktop/Nerdy-Lines/scalable/stock"
-   sodipodi:docname="gtk-refresh.svg"
+   sodipodi:docname="view-refresh.svg"
    inkscape:export-filename="/home/egore/.icons/Nerdy-Lines/128x128/filesystems/gnome-fs-directory.png"
    inkscape:export-xdpi="180.00000"
-   inkscape:export-ydpi="180.00000">
+   inkscape:export-ydpi="180.00000"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 32 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="64 : 32 : 1"
+       inkscape:persp3d-origin="32 : 21.333333 : 1"
+       id="perspective38" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1311">
@@ -173,17 +181,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.53516382"
-     inkscape:cx="66.616450"
-     inkscape:cy="-111.01395"
+     inkscape:zoom="12.25"
+     inkscape:cx="10.530612"
+     inkscape:cy="32"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     inkscape:window-width="1280"
-     inkscape:window-height="949"
+     inkscape:window-width="1680"
+     inkscape:window-height="980"
      inkscape:window-x="0"
      inkscape:window-y="25"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     showgrid="false" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -192,7 +201,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>gnome-fs-loading</dc:title>
+        <dc:title></dc:title>
         <dc:date>2005-10-28</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -200,20 +209,22 @@
           </cc:Agent>
         </dc:creator>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.0/" />
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.0/">
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
         <cc:permits
-           rdf:resource="http://web.resource.org/cc/Reproduction" />
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
-           rdf:resource="http://web.resource.org/cc/Distribution" />
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
         <cc:requires
-           rdf:resource="http://web.resource.org/cc/Notice" />
+           rdf:resource="http://creativecommons.org/ns#Notice" />
         <cc:requires
-           rdf:resource="http://web.resource.org/cc/Attribution" />
-        <cc:prohibits
-           rdf:resource="http://web.resource.org/cc/CommercialUse" />
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
       </cc:License>
     </rdf:RDF>
   </metadata>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="call-stop.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="-7.7958433"
+     inkscape:cy="18.018088"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1400"
+     inkscape:window-height="978"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>call-start</dc:title>
+        <dc:date>2009-03-04</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Christoph Brill</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ae6b6b;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994000000003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 57.312911,45.122387 L 58.814854,40.66543 L 58.157909,35.721297 L 55.302346,30.284732 L 48.629219,23.45629 L 37.784362,18.618243 L 26.257582,19.0856 L 16.611441,23.72037 L 9.9469727,30.517462 L 7.0832088,35.943045 L 6.4027098,40.911772 L 7.8935042,45.361594 L 12.235154,44.787215 L 18.208594,43.038073 L 22.158634,41.303388 L 21.160404,36.797808 L 17.840166,34.705861 L 19.333523,31.0741 L 28.212296,27.259149 L 37.436288,27.517875 L 45.910093,30.835833 L 47.392239,34.438026 L 44.080779,36.53936 L 43.078106,41.042218 L 47.012483,42.772021 L 52.982229,44.549416 L 57.312911,45.122387 z"
+       id="path2403"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccc" />
+    <path
+       sodipodi:nodetypes="ccccccccccccccccccccccccccc"
+       id="path3158"
+       d="M 57.74962,45.999716 L 59.251563,41.542761 L 58.594618,36.598627 L 55.739055,31.162062 L 49.065928,24.33362 L 38.221071,19.495573 L 26.694291,19.96293 L 17.04815,24.597701 L 10.383682,31.394793 L 7.5199181,36.820375 L 6.8394191,41.789102 L 8.3302135,46.238925 L 12.671863,45.664544 L 18.645303,43.915403 L 22.595343,42.180719 L 21.597114,37.675138 L 18.276875,35.583191 L 19.770232,31.95143 L 28.649005,28.136479 L 37.872997,28.395205 L 46.346802,31.713164 L 47.828948,35.315356 L 44.517488,37.41669 L 43.514816,41.919549 L 47.449192,43.649352 L 53.418937,45.426746 L 57.74962,45.999716 z"
+       style="fill:none;fill-opacity:0.50196078;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.50196078" />
+  </g>
+</svg>
